@@ -10,11 +10,11 @@ package prueba1;
  */
 public class NewClass3 {
     public static void main(String[] args){
-    int[] numero = {1,2,3,4,5};
-    int resultado = numero[0] * 2;
-    int resultado1 = numero[1] * 2;
-    int resultado2 = numero[2] * 2;
-    int resultado3 = numero[3] * 2;
-    int resultado4 = numero[4] * 2;
+    //int[] numero = {1,2,3,4,5};
+    //int resultado = numero[0] * 2;
+    //int resultado1 = numero[1] * 2;
+    //int resultado2 = numero[2] * 2;
+    //int resultado3 = numero[3] * 2;
+    //int resultado4 = numero[4] * 2;
     }
 }

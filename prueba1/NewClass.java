@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */package prueba1;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 /**
  *
@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class NewClass {
    public static void main(String[] args) {
-       Scanner consola = new Scanner(System.in);
+       //Scanner consola = new Scanner(System.in);
 
    //boolean numero = true ;
     int numeroCompt = 0;

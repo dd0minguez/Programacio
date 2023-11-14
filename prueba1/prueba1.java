@@ -8,7 +8,7 @@ package prueba1;
  *
  * @author alumne-DAM
  */
-public class Prueba1 {
+public class prueba1 {
 
     /**
      * @param args the command line arguments
@@ -16,10 +16,10 @@ public class Prueba1 {
     public static void main(String[] args) {
         // Tot lo que escrigui aqui dins se executara
 
-        boolean aprovat = true;
+        //boolean aprovat = true;
         int dia = 5;
-        double preu = 12.5;
-        char etiqueta = 'P';
+        //double preu = 12.5;
+        //char etiqueta = 'P';
         String frase = "Hola soc en luc";
         String fraseAmbNumero = frase + " " + dia;
         
@@ -50,4 +50,5 @@ public class Prueba1 {
         System.out.println("Es imparell");
      }
     
+    }
 }
