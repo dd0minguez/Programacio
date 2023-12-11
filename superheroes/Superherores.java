@@ -4,7 +4,7 @@
  */
 package superheroes;
 
-public class superheroes {
+public class Superherores {
     
     public String nombre;
     public String descripcion;
@@ -15,7 +15,7 @@ public class superheroes {
     public int vida; //De 0 a 10
     
     /* COnstructor con parámetros base */
-    public Superheroes(String nombre, int fuerza, int vida){
+    public void Superheroes(String nombre, int fuerza, int vida){
         this.nombre = nombre;
         this.fuerza = fuerza;
         this.vida = vida;
@@ -23,7 +23,7 @@ public class superheroes {
     }
     
     /* Constructor vacio */
-    public Superheroes(){
+    public void Superheroes(){
         this.rareza = "comun";
     }
     
