@@ -20,12 +20,7 @@ public class Cartas {
         //Per fer:
         //Crida a un metode dins Coleccio, que pinti amb un println()
         //quin es el superheroe amb major vida i quin valor te vida
-        
-        //Per fer: 
-        //Crida a un metode dins Coleccio, que retorni amb un return 
-        //quantes cartes "legendaria" hi ha a la nostra coleccio
-        //Guarda el valor dins la variable nLegen
-        int nLegen = 0;
+
         
     }
     
@@ -35,7 +30,7 @@ public class Cartas {
      */
     public static Coleccion crearColeccionMarvel(){
         //Creamos los Superheroes:
-        Superheroes spiderman = new Superheroes();
+        Superheroes spiderman = new Superheroes(null, 0, 0);
         spiderman.nombre = "Spiderman";
         spiderman.descripcion = "Tu amigo y vecino Spiderman";
         spiderman.vida = 7;
